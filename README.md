@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alifthi
 - 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning Deep Learning and DIP
+- 🌱 I’m currently learning NLP and DIP
 - 📫 How to reach me alifathi8008@gmail.com
 
 <!---
