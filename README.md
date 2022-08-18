@@ -1,6 +1,7 @@
 # 💫About Me :
- None :)
-
+Hi!
+i'm ali fathi jahromi. i'm an electrical engineering student (but loves AI too more than it) at shiraz uni.
+im so interested in AI and every things that behaves intelligent :)
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=alifthi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alifthi&theme=tokyonight&hide_border=false)<br/>
