@@ -12,8 +12,6 @@ Hi<br>I'm Ali.<br>I'm an electrical engineering student that loves AI.<br>I'm cu
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alifthi&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alifthi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alifthi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=ali__fth)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
