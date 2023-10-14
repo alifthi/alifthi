@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi<br>I'm Ali.<br>I'm an electrical engineering student who love AI.<br>I'm currently working  freelance as an AI developer and I working on a large language model for Persian language.<br> 
+Hi<br>I'm Ali.<br>I'm an electrical engineering student who love AI.<br>I'm currently working  freelance as an AI developer.<br> 
 
 
 ## 🌐 Socials:
