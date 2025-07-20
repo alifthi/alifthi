@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi<br>I'm Ali.<br>I'm an electrical engineering student who love AI.<br>I'm currently working  freelance as an AI developer.<br> 
+Hi, <br>I’m Ali.<br>I’m an electrical engineering student with a passion for AI.
+<br>I’m currently working as a freelance AI developer.<br> 
 
 
 ## 🌐 Socials:
